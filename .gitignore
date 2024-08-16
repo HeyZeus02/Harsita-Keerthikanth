@@ -1,5 +1,6 @@
 # exclude virtual environment directory
 venv/
+.DS_Store
 
 # byte-compiled / optimized / DLL files
 __pycache__/
@@ -48,7 +49,7 @@ coverage.xml
 .pytest_cache/
 test_reports/
 
-# Kupyter Notebook
+# Jupyter Notebook
 .ipynb_checkpoints
 
 # environment variables
