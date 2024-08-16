@@ -4,5 +4,5 @@ Click on "View raw" to download the video or view it in your browser.
   <source src="presentation-video/cotiviti-presentation-video.mp4" type="video/mp4">
 </video>
 
-Or [Click here to download the video.](presentation-video/cotiviti-presentation-video.mp4)
+Or [Click here to download the video.](presentation-video/presentation-video/cotiviti-presentation-video.mp4)
 
