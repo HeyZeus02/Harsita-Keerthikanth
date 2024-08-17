@@ -42,6 +42,7 @@ This project leverages Clinical Natural Language Technology to enhance healthcar
    ```bash
    git clone https://github.com/harsita-keerthi/cotiviti-intern-assessment.git
    cd cotiviti-intern-assessment
+   cd hackathon-poc
    ```
 
 2. **Create a Virtual Environment**
