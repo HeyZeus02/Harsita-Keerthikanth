@@ -1,0 +1,688 @@
+*Fields in Yellow are required
+Date of service
+
+10/20/2023
+
+Session start time
+
+11:00am
+
+Session end time
+
+12:05pm
+
+Present at session
+
+Client
+
+Location of service
+
+Telehealth
+Office (in person)
+
+The client agreed for this visit to
+occur via telehealth. The client's full
+name and address of present location
+has been confirmed at the start of
+the session.
+
+Yes – client at home
+Yes – client in another location, which has been confirmed
+No
+
+Client is appropriate for Telehealth
+
+Yes
+No
+N/A
+
+Measurement Informed Care: The
+client completed baseline measures
+for this session?
+
+Yes
+No
+
+If yes, baseline measures were
+reviewed with the client in this
+session?
+
+Yes
+No
+
+Race
+(select all that apply, or write in)
+
+African-American/Black
+American Indian /Alaska Native
+Asian
+Caucasian/White
+Native Hawaiian / Pacific Islander
+
+Ethnicity:
+
+Hispanic
+Not Hispanic
+
+1
+
+Client’s preferred language
+
+English
+Spanish
+Other (list)
+
+If needed, was the client offered an
+interpreter?
+
+Yes
+No
+N/A
+
+(If yes) Client's response to offer
+
+Accepted
+Declined
+Requested additional information
+
+Gender Identity
+
+Female
+Male
+Non-Binary
+Transgender FTM
+Transgender MTF
+Other
+Unknown
+
+Pronouns (multi-select)
+
+She/Her
+He/Him
+They/Their
+Xe
+If other, please list:
+
+Marital Status
+
+Single/never married
+Married or in a domestic partnership
+Separated
+Divorced
+Widowed
+
+Sexual Orientation (multi-select)
+
+Heterosexual
+Gay/Lesbian
+Bisexual
+Asexual
+Questioning
+Pansexual
+Queer
+Other
+Unknown
+Declined to answer
+
+Updated November 2023
+2
+
+History of Present Illness
+Presenting problems/chief complaint:
+Identify why the client is seeking
+treatment at this time, including
+onset, duration and severity of
+symptoms. You may include direct
+quotes from the client.
+
+Client presents to counseling for work related stress, general anxiety and
+relationship conflict. They report that there have been changes at their job
+that have resulted in them needing to take on more work that they
+typically have had to. These work changes have been present for 7
+months. They report that it has affected their productivity, ability to focus
+and an increase in overthinking almost daily. Client reports that they are
+seeking treatment at this time because of an incident that occurred at
+work that resulted in her crying in front of her manager and “having a
+mental breakdown”. They report that they were so embarrassed that they
+left immediately and stayed home from work for 2 days, missing an
+important deadline. Client reports feeling “pressure” from their partner as
+well. They report feeling unsupported in the relationship and unable to
+talk to their partner about what they are going through. Client’s anxiety
+and difficulty focusing is causing clinically significant distress and
+impairment in social and occupational functioning.
+
+Current Symptoms
+
+Racing heart, irritability, difficulty relaxing, “crying spells” chest tightness,
+difficulty focusing, feeling “on edge”, being “easily offended and
+defensive”, insomnia, psychomotor agitation, lack of motivation, and
+difficulty experiencing positive emotions.
+
+Health History
+Health history and/or current
+medical conditions:
+
+None
+Yes, as follows:
+
+Primary Care Physician
+
+None
+Yes, as follows: Dr. Sample Name at 123 Mainstreet Care, City, State
+
+Psychiatrist/NP
+
+None
+Yes, as follows:
+
+Current medications:
+
+None
+Yes, as follows:
+
+Psychosocial History
+Highest level of education
+
+Current Student (ie grade school or high school)
+Less than High School
+High school/GED
+Some college
+
+Updated November 2023
+3
+
+College Graduate
+Post-Grad
+Client has an AS degree
+Vocational college
+Employment Status
+
+Name of Employer or School
+Military involvement?
+
+Employed full time (>35 hours/week)
+Employed Part time
+Unemployed
+Student
+Homemaker
+Military
+Retired
+Disabled
+Self Employed
+Client works as a lead data analyst for XYZ, Inc.
+No
+Yes, describe (free text)
+
+Social Concerns (educational,
+employment, legal, financial, other)
+
+Client reports concerns about job performance and upcoming review. They
+report that they believe they are underperforming and will be negatively
+perceived by leadership. Client indicated they have “financial goals” they
+want to achieve and they need the potential promotion to reach these
+goals. Client also reports that, although they are out to their family about
+being queer, they have not disclosed that they identify as nonbinary,
+because “that might be too much” because they are very religious. They
+report that coming out as a lesbian in their teens caused strain in the
+relationship. Client reports that their family “tolerates” their sexuality,
+however they do not talk about it. Client denies any legal involvement.
+Client is college educated and working within their field of study.
+
+Interpersonal/family information
+
+Client defines their family as: Mother, father, and one older sister. She
+reports that she is much closer to her older sister and reports that she is
+the most supportive member of her family. They indicated that the
+relationship with their parents has improved in the last 4 years, however it
+was previously very strained because of clients sexual orientation and
+gender expression
+
+Living situation
+(e.g. alone, with family, with partner)
+
+Client lives with their partner of 3.5 years in an apartment. They have
+been cohabitating for 1 year
+
+Social Supports
+
+Partner, “1 or 2 friends, there’s not many I trust”, older sister
+
+Cultural considerations for treatment
+How do the client's cultural or other
+identities impact their perceptions
+
+Client is a 28 year old, black, queer non-binary person. Client reports using
+They/She pronouns. They report that they are out to their family about
+their sexuality but have not disclosed or explained that they identify as
+Updated November 2023
+
+4
+
+and understanding of their symptoms,
+help-seeking behavior and
+engagement with mental health
+service providers? N/A or None is not
+an appropriate response.
+
+nonbinary. Client reports some anxiety about being around their family
+because of this. Client also report that they are hesitant to disclose that
+they are in counseling because of family beliefs about mental health
+services. Client reports a strong family belief in Christianity and has
+indicated having some internal conflict about spirituality. They report that
+they believe in God but that they “have religious trauma that I probably
+should unpack”
+
+Trauma or Abuse History
+
+None reported
+Yes, as follows: Client reports that they were “outed” as a lesbian to
+her family by a church member. This resulted in significant strain
+within client’s family of origin
+
+Family History of mental illness
+
+None reported
+Yes, as follows: Client reports that their family is religious and “does
+not believe” in therapy. They report that they believe some family
+members have struggled with mental health issues, however, they
+have never sought treatment.
+
+Family History of substance use?
+
+None reported
+Yes, as follows: The report family Hx of alcohol abuse (maternal and
+paternal grandfathers)
+
+Substance Use
+Current Substance Use
+
+Marijuana
+
+Frequency of use
+
+Daily
+
+Details
+
+Client reports smoking one “blunt” daily before bed to assist their sleep.
+
+Substance use history
+
+Client began smoking marijuana at age 16 with first girlfriend.
+
+Previous Substance use treatment
+
+None reported
+Yes, as follows:
+
+Mental Health Treatment History
+History of Prior Treatment:
+
+Client Strengths
+
+No prior mental health treatment
+Yes, as follows:
+Client self identifies as being hard working and reliable. They are
+motivated to achieve treatment goals.
+
+Updated November 2023
+5
+
+Risk Assessment
+Columbia Suicide Severity Rating Scale (C-SSRS)
+1. In the last 30 days, Have you
+wished you were dead or wished you
+could go to sleep and not wake up?
+
+Yes
+No
+
+2. In the last 30 days, Have you
+actually had any thoughts of killing
+yourself?
+
+Yes
+No
+
+If the client answered “Yes” to #2, ask the additional questions below:
+3. Have you been thinking about how
+you might do this?
+
+Yes
+No
+
+4. Have you had these thoughts and
+had some intention on acting on
+them?
+
+Yes
+No
+
+5. Have you started to work out, or
+worked out the details of how to kill
+yourself? Do you intend to carry out
+this plan?
+
+Yes
+No
+
+6. Have you ever done anything,
+started to do anything, or prepared
+to do anything to end your life?
+
+Yes
+No
+6.a In your Lifetime?
+Yes
+No
+6.b In the past 3 months?
+Yes
+No
+
+Columbia Suicidality Scale Rating:
+All No = No Risk Reported
+Yes on question 1 or 2 = Low Risk
+Yes on Questions 3 or 6a = Moderate Risk
+Yes on Questions 4 or 5 or 6b = High Risk
+
+Updated November 2023
+6
+
+Provider Assessment of Risk (Suicide)
+Select One
+
+No Risk Reported
+Low Risk
+Moderate Risk
+High Risk
+Additional Notes:
+
+Risk to self
+Previous suicide attempt:
+
+No/denies
+Yes, as follows:
+
+Imminent suicidal ideation:
+
+No
+Occasional/Fleeting
+More than half the time
+Constant
+
+Imminent suicide plan:
+
+No/denies
+Yes, as follows:
+
+Imminent suicidal intent:
+
+No/denies
+Yes, as follows:
+
+Access to means:
+
+No/denies
+Yes, as follows: Client and partner have one firearm in their
+apartment for protection.
+
+Self-harm behaviors:
+
+No/denies
+Yes, as follows:
+
+Commentary on risk to self
+
+Risk to others
+Prior physical aggression /
+destruction of property / other risk to
+others
+
+No/denies
+Yes, as follows:
+
+Imminent physical
+aggression/destruction of
+property/other risk to others
+
+No/denies
+Yes, as follows:
+
+Imminent homicidal ideation
+
+No/denies
+Yes, as follows:
+Updated November 2023
+
+7
+
+Access to weapon
+
+No/denies
+Yes, as follows: Client and partner have one firearm in their
+apartment for protection.
+
+Commentary on risk to others
+
+Rating of overall risk to self / others
+
+None Reported
+Low/mild
+Moderate Risk
+High Risk
+
+Complete the Safety Plan template note for any client with moderate or high risk,
+and as clinically indicated.
+
+MSE (Mental Status Exam)
+Orientation to Time, Place, and
+Person
+
+Within Normal Limits
+Disoriented- Person
+Disoriented- Situation
+Disoriented- Place
+Disoriented- Time
+
+Recent Memory
+
+Within normal limits
+Immediate
+Impaired
+Intact
+Poor
+Selective
+brain fog
+
+Remote Memory
+
+Within normal limits
+Impaired
+Intact
+Poor
+selective
+
+Intellect
+
+Average
+Above
+Below
+
+Attention Span and Concentration
+
+Within normal limits
+Attentive
+Updated November 2023
+
+8
+
+Alert
+Confused
+Distracted
+Impaired
+Intact
+Lethargic
+Poor
+Grooming and Appearance
+
+Well-groomed
+Careless
+Disheveled
+neatly dressed
+poor hygiene
+Not available
+
+Affect
+
+Angry
+Alert
+Appropriate
+Excitable
+Flat
+Inappropriate
+Labile
+Sad
+Constricted
+limited
+
+Mood
+
+agitated
+Angry
+Anxious
+Apathetic
+Calm
+Depressed
+Euthymic
+Excitable
+Frustrated
+Happy
+Impulsive
+Introspective
+Irritated
+Peaceful
+Pensive
+perplexed
+Sad
+tearful
+Updated November 2023
+
+9
+
+Behavior
+
+appropriate to situation
+inappropriate to situation
+
+Suicidal Ideation
+
+None
+Present (as noted on risk assessment)
+
+Homicidal ideation
+
+None
+Present (as noted on risk assessment)
+
+Hallucinations
+
+None
+Present, describe
+
+Delusions
+
+None
+Present, describe
+
+Obsessions
+
+None
+Present, describe
+
+Thought Processes
+
+clear, linear, logical
+Disorganized
+Illogical
+Irrelevant
+Perseverating
+Relevant
+Scattered
+Blocked
+tangential
+
+Speech
+
+Normal Rate & Volume
+Mute
+paucity of speech
+Pressured
+Rate-fast
+Rate-slow
+Slurred
+Volume-loud
+volume- quiet
+
+Motor
+
+Normal
+Excessive
+Slow
+Not available
+
+Impulse control
+
+Adequate
+Impaired (describe):
+Updated November 2023
+
+10
+
+Judgment
+
+Within Normal Limits
+Impaired- minimal
+Impaired - moderate
+Impaired - severe
+
+Insight
+
+Good
+Fair
+Poor
+Limited
+absent
+
+Clinical Summary
+Provide a summary of your
+assessment, including details to
+justify the initial diagnosis for the
+client. Include ways in which the
+client’s mental health symptoms are
+impairing their functioning in one or
+more areas of their life and why
+treatment is needed at this time.
+
+Service Provided
+
+Diagnosis
+
+Client presents to counseling for work related anxiety and interpersonal
+conflict that causes clinically significant distress. Client reports that
+symptoms include: Racing heart, irritability, difficulty relaxing, “crying
+spells” chest tightness, difficulty focusing, feeling “on edge”, being “easily
+offended and defensive”, insomnia, psychomotor agitation, lack of
+motivation, and difficulty experiencing positive emotions. Client self-report
+and GAD 7 score of 18 indicates that a Dx of Generalized anxiety disorder
+is appropriate. Symptoms have been present for more days than not for
+over 7 months. Client disclosed some difficulty related to their gender
+identity and coming out to family of origin that may be of clinical focus
+later in treatment.
+90791 - Initial Assessment (telehealth)
+90791 - Initial Assessment (in-person)
+F41.1 Generalized Anxiety Disorder
+
+Updated November 2023
+11
+
+
